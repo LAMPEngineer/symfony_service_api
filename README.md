@@ -1,6 +1,6 @@
-# symphony_service_api
+# symfony_service_api
 
-MVC code using Symphony framework:
+MVC code using Symfony framework:
 - Fetch record from MySQL DB and display data throughout the Twigs
 - A service to deliver content through API. Consume the same API and pass the data throughout the Twigs, to display the Records
 
