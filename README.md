@@ -1,8 +1,9 @@
-# symfony_service_api
+# Business requirement
 
-MVC code using Symfony framework:
-- Fetch record from MySQL DB and display data throughout the Twigs
-- A service to deliver content through API. Consume the same API and pass the data throughout the Twigs, to display the Records
+- Fetch records from existing system (MySQL DB) and display throughout the Twigs
+- A service to deliver content through API. 
+- For the new system consume same API, get the data and apply business logic 
+- Use Twig templates to display the Records
 
 # Built
 App is built on Symfony framework 5.0, doctrine 3.3, twig 1.0, flax 1.6, PHP 7.5.2 & MySQL 5.7
