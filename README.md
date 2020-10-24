@@ -1,4 +1,4 @@
-# Business requirement
+# Symfony Service API
 
 - Fetch records from existing system (MySQL DB) and display throughout the Twigs
 - A service to deliver content through API. 
